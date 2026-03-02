@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.6/metadata.xsd">
+  <identifier identifierType="DOI">https://doi.org/10.5281/zenodo.18166879</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Pastore, Claudio</creatorName>
+      <givenName> Claudio</givenName>
+      <familyName>Pastore</familyName>
+      <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID" >0009-0006-0011-7200</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00vasag41" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org/">University of Neuchâtel</affiliation>
+      <affiliation>Swiss Institute for Speleology and Karstology</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Sedaghatkish, Amir</creatorName>
+      <givenName> Amir</givenName>
+      <familyName>Sedaghatkish</familyName>
+      <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID" >0000-0001-6622-1744</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00vasag41" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org/">University of Neuchâtel</affiliation>
+      <affiliation>Swiss Institute for Speleology and Karstology</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Weber, Eric</creatorName>
+      <givenName> Eric</givenName>
+      <familyName>Weber</familyName>
+      <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID" >0000-0002-1087-4524</nameIdentifier>
+      <affiliation>Swiss Institute for Speleology and Karstology</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Luetscher, Marc</creatorName>
+      <givenName> Marc</givenName>
+      <familyName>Luetscher</familyName>
+      <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID" >0000-0001-7121-8830</nameIdentifier>
+      <affiliation>Swiss Institute for Speleology and Karstology</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Jeannin, Pierre-Yves</creatorName>
+      <givenName> Pierre-Yves</givenName>
+      <familyName>Jeannin</familyName>
+      <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID" >0000-0002-6730-1479</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00vasag41" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org/">University of Neuchâtel</affiliation>
+      <affiliation>Swiss Institute for Speleology and Karstology</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Cave Temperature and Air flow data (Longeaigue Cave, Jura Mountains, Switzerland) for Dynamics of chimney-effect ventilation and heat exchange</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2026</publicationYear>
+  <subjects>
+    <subject>cave</subject>
+    <subject>cave temperature</subject>
+    <subject>cave air flow</subject>
+    <subject>chimney effect</subject>
+  </subjects>
+  <dates>
+    <date dateType="Collected">2020-08-13</date>
+    <date dateType="Available">2026-01-06</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <size>10.8 MB</size>
+  <formats>
+    <format>applicaton/xlsx</format>
+  </formats>
+  <version>1</version>
+  <rightsList>
+    <rights xml:lang="en" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Cave air temperature and air flow measurements, Longeaigue Cave (Jura Mts., CH). These data were collected for the PhD thesis > (Pastore, in print).The temperature and air flow data are plotted in Figure 8.5 in the manuscript. Probe and cave information can be found in "Cave&Probe information.xlsx". The data used to print the Figures 8.10 and 8.11 in the manuscript are also in the files "Figure 8.10_Quadratic relation DPvsFlow.xlsx" and "Figure 8.11 - Model results.xlsx", respectively.</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>Longeaigue Cave</geoLocationPlace>
+      <geoLocationPlace>Jura Mountains, Switzerland</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>Swiss National Science Foundation</funderName>
+      <funderIdentifier schemeURI="https://ror.org/" funderIdentifierType="ROR">https://ror.org/00yjd3n13 </funderIdentifier>
+    </fundingReference>
+  </fundingReferences>
+</resource>
